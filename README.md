@@ -3,6 +3,16 @@
 
 #La calculadora Open Source te permite elegir entre 4 operaciones entre dos valores y una operación de suma con más de un valor separados por espacios.
 
+### Cómo usarla
+
+1.  Asegúrate de tener Python 3 instalado en tu sistema.
+2.  Clona el repositorio en tu máquina local.
+3.  Abre una terminal en la carpeta del proyecto.
+4.  Ejecuta el siguiente comando para iniciar la calculadora:
+    ```
+    python main.py
+    ```
+
 #Para elegir cada una de las opciones deberás escribir el número de la opción que corresponda. Por ejemplo, verás:
 
 #--- Calculadora de Código Abierto ---
